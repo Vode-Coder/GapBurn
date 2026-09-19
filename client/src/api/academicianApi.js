@@ -1,0 +1,1 @@
+export { academicianApi } from './authApi'

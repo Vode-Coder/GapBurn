@@ -1,0 +1,1 @@
+export { industryApi } from './authApi'
